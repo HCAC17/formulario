@@ -1,0 +1,88 @@
+#fundo {
+    background-color: aquamarine;
+}
+
+/*posicionamento*/
+
+.formulario {
+    border: 2px rgb(13, 182, 126) solid;
+    width: 40%;
+    height: 14%;
+    position: absolute;
+    top: 20%;
+    right: 31%;
+
+}
+
+.direita ,.direita1 {
+    /*border: 2px red solid;*/
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    margin: 5px;
+}
+
+.direita1 {
+    top: 26px;
+}
+
+.esquerda1 ,.esquerda{
+   margin: 5px;
+}
+
+/*fim posicionamento*/
+
+/* posicionamento botão*/
+
+.botao {
+    margin: 5px;
+    position: absolute;
+    right: 0;
+}
+
+/*fim posicionamento botão*/
+
+/*Animação*/
+
+#animaçao input {
+    background-color: rgb(255, 255, 255);
+}
+
+#animaçao input:focus {
+    background-color: rgb(197, 243, 228);
+}
+
+#animaçao1 input {
+    background-color: rgb(255, 255, 255);
+}
+
+#animaçao1 input:focus {
+    background-color: rgb(197, 243, 228);
+}
+
+#animaçao2 input {
+    background-color: rgb(255, 255, 255);
+}
+
+#animaçao2 input:focus {
+    background-color: rgb(197, 243, 228);
+}
+
+#animaçao3 input {
+    background-color: rgb(255, 255, 255);
+}
+
+#animaçao3 input:focus {
+    background-color: rgb(197, 243, 228);
+}
+
+#animaçao4 button {
+    background-color: rgb(255, 255, 255);
+}
+
+#animaçao4 button:focus {
+    background-color: rgb(197, 243, 228);
+}
+/* fim da animação*/
+
+
